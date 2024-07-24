@@ -55,7 +55,7 @@
     "@langchain/pinecone": "workspace:*",
     "@langchain/qdrant": "workspace:*",
     "@langchain/redis": "workspace:*",
-    "@langchain/scripts": "~0.0.14",
+    "@langchain/scripts": "~0.0.1",
     "@langchain/textsplitters": "workspace:*",
     "@langchain/weaviate": "workspace:*",
     "@langchain/yandex": "workspace:*",
