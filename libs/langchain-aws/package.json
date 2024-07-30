@@ -39,7 +39,7 @@
   "author": "LangChain",
   "license": "MIT",
   "dependencies": {
-    "@aws-sdk/client-bedrock-runtime": "^3.602.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.606.0",
     "@aws-sdk/credential-provider-node": "^3.600.0",
     "@langchain/core": ">=0.2.9 <0.3.0",
     "zod-to-json-schema": "^3.22.5"
