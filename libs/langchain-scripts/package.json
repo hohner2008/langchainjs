@@ -43,7 +43,7 @@
     "glob": "^10.3.10",
     "rimraf": "^5.0.1",
     "rollup": "^4.5.2",
-    "ts-morph": "^21.0.1",
+    "ts-morph": "^24.0.0",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
